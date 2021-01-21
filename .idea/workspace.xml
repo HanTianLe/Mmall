@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4142e634-0028-45f0-bc45-ca9225874204" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JetBrains\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lMQC8e7mfTikgZ4CsSfpOyZkZa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.htl.service" />
+      <recent name="com.htl.service.impl" />
+      <recent name="com.htl.mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\IDEA_project\Mmall\src\main\resources\static" />
+      <recent name="D:\Project\IDEA_project\Mmall\src\main\java\com\htl\vo" />
+      <recent name="D:\Project\IDEA_project\Mmall\src\main\java\com\htl\config" />
+      <recent name="D:\Project\IDEA_project\Mmall\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MmallApplication">
+    <configuration name="CartServiceTest.findAllCartVOByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mmall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.service" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.service.CartServiceTest" />
+      <option name="METHOD_NAME" value="findAllCartVOByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mmall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.service" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.service.OrdersServiceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mmall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.service" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAddressServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mmall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.service" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.service.UserAddressServiceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MmallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Mmall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.MmallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductServiceTest.get" />
+      <item itemvalue="JUnit.CartServiceTest.findAllCartVOByUserId" />
+      <item itemvalue="JUnit.UserAddressServiceTest.test" />
+      <item itemvalue="JUnit.OrdersServiceTest.test" />
+      <item itemvalue="Spring Boot.MmallApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MmallApplication" />
+        <item itemvalue="JUnit.OrdersServiceTest.test" />
+        <item itemvalue="JUnit.UserAddressServiceTest.test" />
+        <item itemvalue="JUnit.CartServiceTest.findAllCartVOByUserId" />
+        <item itemvalue="JUnit.ProductServiceTest.get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4142e634-0028-45f0-bc45-ca9225874204" name="Default Changelist" comment="" />
+      <created>1607404349262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607404349262</updated>
+      <workItem from="1607404353389" duration="99000" />
+      <workItem from="1607404728415" duration="59000" />
+      <workItem from="1607404794105" duration="1541000" />
+      <workItem from="1607421188620" duration="3841000" />
+      <workItem from="1607426405242" duration="1169000" />
+      <workItem from="1607434552623" duration="3973000" />
+      <workItem from="1607468034450" duration="5246000" />
+      <workItem from="1607473329244" duration="4000" />
+      <workItem from="1607477090765" duration="10335000" />
+      <workItem from="1607490148359" duration="4000" />
+      <workItem from="1607491387643" duration="3326000" />
+      <workItem from="1607494737960" duration="23000" />
+      <workItem from="1607494906190" duration="46000" />
+      <workItem from="1607500088731" duration="11492000" />
+      <workItem from="1607515258232" duration="119000" />
+      <workItem from="1607515390281" duration="19000" />
+      <workItem from="1607522790638" duration="2732000" />
+      <workItem from="1607563259165" duration="7002000" />
+      <workItem from="1607571432481" duration="6000" />
+      <workItem from="1607573034271" duration="1676000" />
+      <workItem from="1607595142884" duration="3575000" />
+      <workItem from="1607598757171" duration="16000" />
+      <workItem from="1607598775164" duration="6000" />
+      <workItem from="1607598811741" duration="6806000" />
+      <workItem from="1607609036832" duration="25000" />
+      <workItem from="1607609064013" duration="2000" />
+      <workItem from="1607642344529" duration="6580000" />
+      <workItem from="1607649102580" duration="33000" />
+      <workItem from="1607649138303" duration="4000" />
+      <workItem from="1607649378873" duration="242000" />
+      <workItem from="1607649626025" duration="3000" />
+      <workItem from="1607660198948" duration="7736000" />
+      <workItem from="1607667981411" duration="9000" />
+      <workItem from="1607682991695" duration="218000" />
+      <workItem from="1607751492871" duration="5663000" />
+      <workItem from="1607757266720" duration="2989000" />
+      <workItem from="1607760323290" duration="15000" />
+      <workItem from="1607760339770" duration="1000" />
+      <workItem from="1607760399588" duration="58000" />
+      <workItem from="1607760460659" duration="2000" />
+      <workItem from="1607820817495" duration="217000" />
+      <workItem from="1607994599685" duration="1138000" />
+      <workItem from="1607999763234" duration="22000" />
+      <workItem from="1607999847753" duration="737000" />
+      <workItem from="1608001190480" duration="674000" />
+      <workItem from="1608028102879" duration="2354000" />
+      <workItem from="1608037147769" duration="2000" />
+      <workItem from="1608080772851" duration="9642000" />
+      <workItem from="1608096550547" duration="616000" />
+      <workItem from="1608984150993" duration="1373000" />
+      <workItem from="1608992555838" duration="2079000" />
+      <workItem from="1609031295069" duration="286000" />
+      <workItem from="1609059360215" duration="84000" />
+      <workItem from="1609064408809" duration="651000" />
+      <workItem from="1609065447020" duration="847000" />
+      <workItem from="1609067974256" duration="298000" />
+      <workItem from="1609070302480" duration="1223000" />
+      <workItem from="1609073624385" duration="442000" />
+      <workItem from="1609075110419" duration="329000" />
+      <workItem from="1609075541504" duration="91000" />
+      <workItem from="1609119263230" duration="30000" />
+      <workItem from="1609143156421" duration="29000" />
+      <workItem from="1609283138543" duration="4671000" />
+      <workItem from="1609303291986" duration="190000" />
+      <workItem from="1609305620460" duration="1263000" />
+      <workItem from="1609308626597" duration="1454000" />
+      <workItem from="1609310485122" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1607571409174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607571409174" />
+    <state x="38" y="67" width="1270" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607502355707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="38" y="67" width="1270" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607502355707" />
+    <state x="490" y="86" width="456" height="620" key="#com.intellij.ide.util.MemberChooser" timestamp="1607647968338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="86" width="456" height="620" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607647968338" />
+    <state x="405" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607646862744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1607646862744" />
+    <state x="504" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1608096255271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="0" key="Diagram.Print.Preview.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1608096255271" />
+    <state width="1493" height="496" key="GridCell.Tab.0.bottom" timestamp="1608096306647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608096306647" />
+    <state width="1493" height="496" key="GridCell.Tab.0.center" timestamp="1608096306646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608096306646" />
+    <state width="1493" height="496" key="GridCell.Tab.0.left" timestamp="1608096306646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608096306646" />
+    <state width="1493" height="496" key="GridCell.Tab.0.right" timestamp="1608096306646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608096306646" />
+    <state width="1493" height="496" key="GridCell.Tab.1.bottom" timestamp="1608096306647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608096306647" />
+    <state width="1493" height="496" key="GridCell.Tab.1.center" timestamp="1608096306647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608096306647" />
+    <state width="1493" height="496" key="GridCell.Tab.1.left" timestamp="1608096306647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608096306647" />
+    <state width="1493" height="496" key="GridCell.Tab.1.right" timestamp="1608096306647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="496" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608096306647" />
+    <state width="1493" height="439" key="GridCell.Tab.2.bottom" timestamp="1607490139836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607490139836" />
+    <state width="1493" height="439" key="GridCell.Tab.2.center" timestamp="1607490139836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607490139836" />
+    <state width="1493" height="439" key="GridCell.Tab.2.left" timestamp="1607490139836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607490139836" />
+    <state width="1493" height="439" key="GridCell.Tab.2.right" timestamp="1607490139836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607490139836" />
+    <state x="298" y="48" key="SettingsEditor" timestamp="1607751918119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="48" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607751918119" />
+    <state x="548" y="220" width="439" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1607648934952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="220" width="439" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824@0.0.1536.824" timestamp="1607648934952" />
+    <state x="252" y="132" width="873" height="572" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1607994639648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="252" y="132" width="873" height="572" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1607994639648" />
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607645976707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1607645976707" />
+    <state x="178" y="72" key="new project wizard" timestamp="1608992775789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608992775789" />
+  </component>
+</project>
